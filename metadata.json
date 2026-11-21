@@ -1,0 +1,6 @@
+{
+  "name": "NestLink — Smart Hostel & Roommate Finder",
+  "description": "University student hostel discovery and lifestyle-matched roommate finder across Bangladesh.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
